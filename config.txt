@@ -1,0 +1,4 @@
+https://nick-anor.github.io/pack-open
+tg://resolve?domain=PackOpenning
+true
+-1
