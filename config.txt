@@ -2,3 +2,4 @@ tg://resolve?domain=PackOpenning
 true1
 249
 15
+0.1
